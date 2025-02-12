@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.card-app{
+    background-image: url(https://img.freepik.com/free-vector/abstract-background-vertical-with-colorful-shape_361591-4284.jpg?ga=GA1.1.969920365.1725947994&semt=ais_hybrid);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: #EEEEEE;
+}
